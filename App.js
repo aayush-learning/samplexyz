@@ -7,7 +7,7 @@
  */
 
 import React from 'react';
-import {SafeAreaView, StatusBar, View} from 'react-native';
+import {StatusBar} from 'react-native';
 import CustomSearch from './src/component/CustomSearch';
 
 const App = () => {
